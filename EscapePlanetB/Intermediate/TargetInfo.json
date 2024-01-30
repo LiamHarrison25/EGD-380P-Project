@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "EscapePlanetB",
+			"Path": "..\\Source\\EscapePlanetB.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "EscapePlanetBEditor",
+			"Path": "..\\Source\\EscapePlanetBEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

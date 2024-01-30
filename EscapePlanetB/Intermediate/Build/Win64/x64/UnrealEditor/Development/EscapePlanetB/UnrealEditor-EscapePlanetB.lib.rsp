@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-EscapePlanetB.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Lharrison\Desktop\repos\EGD-380p\EGD-380P-Project\EscapePlanetB\Intermediate\Build\Win64\x64\EscapePlanetBEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\Lharrison\Desktop\repos\EGD-380p\EGD-380P-Project\EscapePlanetB\Intermediate\Build\Win64\x64\UnrealEditor\Development\EscapePlanetB\EscapePlanetB.cpp.obj"
+"C:\Users\Lharrison\Desktop\repos\EGD-380p\EGD-380P-Project\EscapePlanetB\Intermediate\Build\Win64\x64\UnrealEditor\Development\EscapePlanetB\Default.rc2.res"
+/OUT:"C:\Users\Lharrison\Desktop\repos\EGD-380p\EGD-380P-Project\EscapePlanetB\Intermediate\Build\Win64\x64\UnrealEditor\Development\EscapePlanetB\UnrealEditor-EscapePlanetB.lib"
