@@ -11,6 +11,8 @@
     <None Include="..\..\Source\EscapePlanetBEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\UpgradeLog.htm" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -37,6 +39,21 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\EscapePlanetB\EscapePlanetB.h">
       <Filter>Source\EscapePlanetB</Filter>
+    </ClInclude>
+    <Filter Include="Source\EscapePlanetB\Private">
+      <UniqueIdentifier>{A779AB01-41D0-39B2-B270-C450F55F5DC7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\EscapePlanetB\Private\Chunk.cpp">
+      <Filter>Source\EscapePlanetB\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EscapePlanetB\Private\Chunk.h">
+      <Filter>Source\EscapePlanetB\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EscapePlanetB\Private\ChunkEnums.cpp">
+      <Filter>Source\EscapePlanetB\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EscapePlanetB\Private\ChunkEnums.h">
+      <Filter>Source\EscapePlanetB\Private</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\Lharrison\\Desktop\\repos\\EGD-380p\\EGD-380P-Project\\EscapePlanetB\\Source\\EscapePlanetB\\EscapePlanetB.Build.cs",
-		"C:\\Users\\Lharrison\\Desktop\\repos\\EGD-380p\\EGD-380P-Project\\EscapePlanetB\\Source\\EscapePlanetB.Target.cs",
-		"C:\\Users\\Lharrison\\Desktop\\repos\\EGD-380p\\EGD-380P-Project\\EscapePlanetB\\Source\\EscapePlanetBEditor.Target.cs"
+		"D:\\Projects\\Unreal Projects\\EGD-380P\\EGD-380P-Project\\EscapePlanetB\\Source\\EscapePlanetB\\EscapePlanetB.Build.cs",
+		"D:\\Projects\\Unreal Projects\\EGD-380P\\EGD-380P-Project\\EscapePlanetB\\Source\\EscapePlanetB.Target.cs",
+		"D:\\Projects\\Unreal Projects\\EGD-380P\\EGD-380P-Project\\EscapePlanetB\\Source\\EscapePlanetBEditor.Target.cs"
 	],
 	"EngineVersion": "5.3.2"
 }

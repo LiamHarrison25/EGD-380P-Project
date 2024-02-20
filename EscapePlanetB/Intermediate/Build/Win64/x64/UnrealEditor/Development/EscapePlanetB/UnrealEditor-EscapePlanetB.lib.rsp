@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-EscapePlanetB.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\Lharrison\Desktop\repos\EGD-380p\EGD-380P-Project\EscapePlanetB\Intermediate\Build\Win64\x64\EscapePlanetBEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
-"C:\Users\Lharrison\Desktop\repos\EGD-380p\EGD-380P-Project\EscapePlanetB\Intermediate\Build\Win64\x64\UnrealEditor\Development\EscapePlanetB\EscapePlanetB.cpp.obj"
-"C:\Users\Lharrison\Desktop\repos\EGD-380p\EGD-380P-Project\EscapePlanetB\Intermediate\Build\Win64\x64\UnrealEditor\Development\EscapePlanetB\Default.rc2.res"
-/OUT:"C:\Users\Lharrison\Desktop\repos\EGD-380p\EGD-380P-Project\EscapePlanetB\Intermediate\Build\Win64\x64\UnrealEditor\Development\EscapePlanetB\UnrealEditor-EscapePlanetB.lib"
+"D:\Projects\Unreal Projects\EGD-380P\EGD-380P-Project\EscapePlanetB\Intermediate\Build\Win64\x64\EscapePlanetBEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"D:\Projects\Unreal Projects\EGD-380P\EGD-380P-Project\EscapePlanetB\Intermediate\Build\Win64\x64\UnrealEditor\Development\EscapePlanetB\EscapePlanetB.cpp.obj"
+"D:\Projects\Unreal Projects\EGD-380P\EGD-380P-Project\EscapePlanetB\Intermediate\Build\Win64\x64\UnrealEditor\Development\EscapePlanetB\Default.rc2.res"
+/OUT:"D:\Projects\Unreal Projects\EGD-380P\EGD-380P-Project\EscapePlanetB\Intermediate\Build\Win64\x64\UnrealEditor\Development\EscapePlanetB\UnrealEditor-EscapePlanetB.lib"

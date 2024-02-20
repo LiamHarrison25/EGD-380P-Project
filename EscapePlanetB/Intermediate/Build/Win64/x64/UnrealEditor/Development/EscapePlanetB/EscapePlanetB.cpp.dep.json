@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\lharrison\\desktop\\repos\\egd-380p\\egd-380p-project\\escapeplanetb\\source\\escapeplanetb\\escapeplanetb.cpp",
+        "Source": "d:\\projects\\unreal projects\\egd-380p\\egd-380p-project\\escapeplanetb\\source\\escapeplanetb\\escapeplanetb.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\lharrison\\desktop\\repos\\egd-380p\\egd-380p-project\\escapeplanetb\\intermediate\\build\\win64\\x64\\escapeplanetbeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "PCH": "d:\\projects\\unreal projects\\egd-380p\\egd-380p-project\\escapeplanetb\\intermediate\\build\\win64\\x64\\escapeplanetbeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\lharrison\\desktop\\repos\\egd-380p\\egd-380p-project\\escapeplanetb\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\escapeplanetb\\definitions.escapeplanetb.h",
-            "c:\\users\\lharrison\\desktop\\repos\\egd-380p\\egd-380p-project\\escapeplanetb\\source\\escapeplanetb\\escapeplanetb.h"
+            "d:\\projects\\unreal projects\\egd-380p\\egd-380p-project\\escapeplanetb\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\escapeplanetb\\definitions.escapeplanetb.h",
+            "d:\\projects\\unreal projects\\egd-380p\\egd-380p-project\\escapeplanetb\\source\\escapeplanetb\\escapeplanetb.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
