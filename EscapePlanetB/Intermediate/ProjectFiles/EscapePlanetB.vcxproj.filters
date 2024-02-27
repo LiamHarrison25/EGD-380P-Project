@@ -12,6 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <None Include="..\..\.vsconfig" />
+    <None Include="..\..\EscapePlanetB.uproject.bak" />
     <None Include="..\..\UpgradeLog.htm" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
@@ -34,6 +35,9 @@
     <None Include="..\..\Source\EscapePlanetB\EscapePlanetB.Build.cs">
       <Filter>Source\EscapePlanetB</Filter>
     </None>
+    <None Include="..\..\Source\EscapePlanetB\EscapePlanetB.Build.cs.bak">
+      <Filter>Source\EscapePlanetB</Filter>
+    </None>
     <ClCompile Include="..\..\Source\EscapePlanetB\EscapePlanetB.cpp">
       <Filter>Source\EscapePlanetB</Filter>
     </ClCompile>
@@ -54,6 +58,15 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\EscapePlanetB\Private\ChunkEnums.h">
       <Filter>Source\EscapePlanetB\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EscapePlanetB\Private\MeshGenerator.cpp">
+      <Filter>Source\EscapePlanetB\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\EscapePlanetB\Public">
+      <UniqueIdentifier>{9F764C95-ACED-3708-A049-52C93B1716D1}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\EscapePlanetB\Public\MeshGenerator.h">
+      <Filter>Source\EscapePlanetB\Public</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

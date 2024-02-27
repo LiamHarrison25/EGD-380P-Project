@@ -19,7 +19,7 @@ public:
 		Down
 	};
 
-	enum class BlockType
+	enum class CellType
 	{
 		Null, Air, Ground
 	};
